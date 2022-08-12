@@ -14,7 +14,7 @@ Python script: run them directly in Rhino
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2021/01/Ex_LA-Assignment_2-2_02.jpg" width="50%" height="50%">
 
-<br><br>
+<br>
 
 ### Weaving of Trumpets
 <a href="https://ambrosinus.altervista.org/blog/weaving-of-trumpets-python-rhinoscript/" target="_blank">Extra info + description here</a>
