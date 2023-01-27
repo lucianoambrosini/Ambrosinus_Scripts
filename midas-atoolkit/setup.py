@@ -11,7 +11,7 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/lucianoambrosini/Ambrosinus-Toolkit',
+    url='https://github.com/lucianoambrosini/Ambrosinus_Scripts/midas-atoolkit',
     project_urls = {
         "Bug Tracker": "https://github.com/lucianoambrosini/Ambrosinus-Toolkit/midas-atoolkit"
     },
