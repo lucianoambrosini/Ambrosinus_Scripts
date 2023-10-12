@@ -1,5 +1,5 @@
 """
-Mirror objs by simmetrical axes
+Mirror objs by symmetrical axes
 by LUCIANO AMBROSINI (2023)
 www.lucianoaambrosini.it
 """
