@@ -32,3 +32,10 @@ Python script: run them directly in Rhino
 <a href="https://ambrosinus.altervista.org/blog/weaving-of-trumpets-python-rhinoscript/" target="_blank">Extra info + description here</a>
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/04/LA-weaving-of_trumpets_Pagina_6_1-scaled.jpg" width="50%" height="50%">
+<br>
+<br>
+<br>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/05/bmc_comp_01.png" alt="Buy Me A Coffee" width="25%" height="25%"></a>
+</div>
